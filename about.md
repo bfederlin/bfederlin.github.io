@@ -10,7 +10,7 @@ By using an extreme case of psuedo-history finding a receptive audience in a wea
 
 The project will consist of three primary parts: 
 
-+ An essay providing historical context for the case study and making a case for its relevance
-+ A searchable database of historical monuments in the greater Boston area
-+ A rubrick that the user can use to analyze datapoints and better understand their context 
++ **An essay** providing historical context for the case study and making a case for its relevance
++ **A searchable database** of historical monuments in the greater Boston area
++ **A rubric** that the user can use to analyze datapoints and better understand their context 
 
